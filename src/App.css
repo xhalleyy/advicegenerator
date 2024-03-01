@@ -117,6 +117,10 @@
     margin-right: 20px;
   }
 
+  .body-padding{
+    padding: 50px 20px;
+  }
+
   .randomBtn {
     border-radius: 50%;
     border: 0px;
